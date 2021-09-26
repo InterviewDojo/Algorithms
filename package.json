@@ -1,0 +1,38 @@
+{
+  "name": "@interviewdojo/algorithms",
+  "version": "0.0.0",
+  "description": "interview prep material",
+  "scripts": {
+    "test": "jest ./src --coverage",
+    "lint": "eslint ./src --ext ts,js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InterviewDojo/Algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/InterviewDojo/Algorithms/issues"
+  },
+  "homepage": "https://github.com/InterviewDojo/Algorithms#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.9.6",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "@typescript-eslint/parser": "^4.31.2",
+    "babel-jest": "^27.2.1",
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^4.0.0",
+    "jest": "^27.2.1",
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.3"
+  }
+}

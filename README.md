@@ -1,3 +1,15 @@
+## Getting started
+
+1. clone repo
+
+2. install dependencies
+
+3. run test
+
+4. add code
+
+
+
 ### Topics of Study
 - Big-O
 - Data Structures
